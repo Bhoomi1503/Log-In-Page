@@ -1,0 +1,69 @@
+.section{
+    border: 12px solid black;
+    height: 700px;
+    border-radius: 10px;
+}
+
+img{
+    background-size: cover;
+    height: 650px;
+    width: 600px;
+    z-index: 0;
+    padding-top: 10px;
+}
+.over{
+    z-index: 1;
+    margin-top: -600px;
+    color: green;
+}
+input{
+    width: 300px;
+}
+.pass{
+    margin-left: 120px;
+    color: gray;
+}
+h1,p{
+    padding: 10px;
+
+}
+.side{
+    padding: 20px;
+}
+.wel{
+    color:green;
+    padding: 0;
+    margin: 0;
+    font-size: 60px;
+    
+}
+.wel1{
+    font-size: 20px;
+    color: green;
+}
+.btn2{
+    background-color: green ;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    margin-left: 120px;
+}
+.btn1{
+ padding: 5px;
+ width: 50px;
+ height: 50px;
+ background-color: green;
+ border: none;
+ border-radius: 5px;
+ margin-left: 10px;
+ color: white;
+}
+.pass1{
+   margin-left: 80px;
+    color: gray;
+}
+.a{
+    color: black;
+}
